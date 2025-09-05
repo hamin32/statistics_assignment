@@ -16,7 +16,7 @@
 정규분포는 평균(μ)과 표준편차(σ) 두 개의 파라미터로 정의된다.  
 
 ##수식 
-![정규분포 그래프](https://github.com/hamin32/-3-/blob/9e3d8b59db0a778be241494da4ff4d7b52dd0c26/image.png)
+![정규분포 그래프](https://github.com/hamin32/-3-/blob/9e3d8b59db0a778be241494da4ff4d7b52dd0c26/image.png?raw=true)
 평균 μ는 분포의 중심을, 표준편차 σ는 분포의 퍼짐 정도를 결정한다.  
 
 ### 특징  
@@ -40,7 +40,7 @@
 정규분포에서 어떤 값 x가 평균에서 얼마나 떨어져 있는지를 표현하기 위해 **표준화**를 사용한다.  
 
 ## 공식  
-![표준화 그해프](https://github.com/hamin32/-3-/blob/9e3d8b59db0a778be241494da4ff4d7b52dd0c26/image.png)
+![표준화 그해프](https://github.com/hamin32/-3-/blob/9e3d8b59db0a778be241494da4ff4d7b52dd0c26/image.png?raw=true)
 
 → 평균을 0, 표준편차를 1로 변환한다.  
 z값은 해당 값이 평균에서 몇 표준편차만큼 떨어져 있는지를 나타낸다.  
